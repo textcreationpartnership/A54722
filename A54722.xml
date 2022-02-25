@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppy of a letter of Father Philips, the Queens confessor, which was thought to be sent into France, to Mr. Mountagues discovered and produced to be read in the House of Commons, by Mr. Pymme the 25 of June, 1641 to this effect : lamentably complaining of the times and present state of things and this was written presently after Piercy and Jermyn fled.</title>
+            <author>Philips, Robert, d. 1650?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54722</idno>
+            <idno type="STC">Wing P2039</idno>
+            <idno type="STC">ESTC R22256</idno>
+            <idno type="EEBO-CITATION">12741401</idno>
+            <idno type="OCLC">ocm 12741401</idno>
+            <idno type="VID">93144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E160, no 28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppy of a letter of Father Philips, the Queens confessor, which was thought to be sent into France, to Mr. Mountagues discovered and produced to be read in the House of Commons, by Mr. Pymme the 25 of June, 1641 to this effect : lamentably complaining of the times and present state of things and this was written presently after Piercy and Jermyn fled.</title>
+                  <author>Philips, Robert, d. 1650?</author>
+               </titleStmt>
+               <extent>[2], 5 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93144:1" rendition="simple:additions"/>
+            <p>THE COPPY OF A LETTER OF FATHER PHILIPS, the Queenes <hi>Confeſſor,</hi> which was thought to be ſent into <hi>France,</hi> to Mr. <hi>Mountagne;</hi> diſcovered and produced to be read in the Houſe of COMMONS, by Mr. <hi>Pymme,</hi> the 25. of <hi>June,</hi> 1641. to this effect.</p>
+            <p>Lamentably complaining of the times and preſent ſtate of things, and this was written preſently after PIERCY and JER<g ref="char:EOLhyphen"/>MYN fled.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:93144:2"/>
+            <pb n="1" facs="tcp:93144:2"/>
+            <head>A COPPY OF THE Letter of Father <hi>PHILIPS</hi> the Queenes <hi>Confeſſour,</hi> which was thought to be ſent into <hi>France,</hi> to Mr.
+<hi>Mountague,</hi>
+               <lb/>
+Diſcovered and produced to be read in the Houſe of COMMONS, by Maſter Pymme, the 25. of Iune, 1641. to this effect.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He good King and Queene are left very naked, the <hi>Puritans,</hi> if they durſt, would pull the good Queen in pieces, can the good King of France ſuffer a Daughter of <hi>France</hi> his Siſter, and her children, to be thus affron<g ref="char:EOLhyphen"/>ted, can the wiſe <hi>Cardinall</hi> endure <hi>England</hi> and <hi>Scotland</hi> to unite, and not bee able to
+<pb n="2" facs="tcp:93144:3"/>diſcerne, in the end it is like they will joyne together, and turne head againſt <hi>France,</hi> a ſtirring active Ambaſſadour might doe good ſervice here, I have ſent you a Coppy of the Kings Speech on <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> laſt, at which time he diſcharged his conſcience, and was adviſed to make that Speech by the Earle of <hi>Briſtoll,</hi> and the Lord <hi>Sey,</hi> but I beleeve there is a mi<g ref="char:EOLhyphen"/>ſtake in the writing, and that it ſhould have beene the Lord <hi>Savile.</hi>
+            </p>
+            <p>This Speech did much operato to the diſadvantage of the Earle of <hi>Strafford,</hi> for the Commons were much thereby incen<g ref="char:EOLhyphen"/>ſed, and inflamed againſt him, and this brought forth the next day being <hi>Munday,</hi> a Proteſtation which was taken in both Houſes of Parliament, of the ſame nature, but rather worſe then the <hi>Scottiſh Cove<g ref="char:EOLhyphen"/>nant.</hi> The <hi>Londoners</hi> who are very boyſte<g ref="char:EOLhyphen"/>rous came upon <hi>Munday</hi> 5. or 6000 and were ſo rude that they would not ſuffer the Lords to come and goe quietly and peaceably to their houſes, but threntned
+<pb n="3" facs="tcp:93144:3"/>them, that if they had not Iuſtice, and if they had not his life it ſhould goe hard for all thoſe that ſtood for him, follow<g ref="char:EOLhyphen"/>ing them up and downe and calling for Iuſtice, Iuſtice, Juſtice.</p>
+            <p>There was in the houſe of Commons, 56, that denyed to paſſe the Earle of <hi>Straf<g ref="char:EOLhyphen"/>fords</hi> Bill, there names were taken and they were fixed upon Poſts in divers parts in <hi>London,</hi> and there was written over the head, theſe are <hi>Straffordians,</hi> the betray<g ref="char:EOLhyphen"/>ers of their Country.</p>
+            <p>By this meanes it came to paſſe that the Lords and Iudges were much affrigh<g ref="char:EOLhyphen"/>ted, and the moſt of his friends in the Lords houſe forſooke him all, the Po<g ref="char:EOLhyphen"/>piſh Lords did abſent themſelves, the Lord of <hi>Holland,</hi> and <hi>Heartford,</hi> were abſent, ſo was <hi>Briſtoll,</hi> and others, <hi>Sa<g ref="char:EOLhyphen"/>vile</hi> and the Duke onely ſtuck cloſe and faithfully to him, and ſome few other Lords, God knowes the King is much dejected, The Lords much affrighted, which makes the <hi>Citizens,</hi> and houſe of Commons ſhew their heads;
+<pb n="4" facs="tcp:93144:4"/>ſome have braved little leſſe then to o<g ref="char:EOLhyphen"/>verthrow his Majeſty, who if he had but an ordinary ſpirit, might eaſily quaſh and ſuppreſſe theſe people. Our good Queen is much afflicted, and in my Conſcience the <hi>Puritans,</hi> if they durſt, would teare her in peeces, this cannot be for the honour of <hi>France,</hi> to endure a daughter of that Na<g ref="char:EOLhyphen"/>tion, and her children ſhould bee thus oppreſſed and affronted.</p>
+            <p>The Earle of <hi>Holland</hi> is made generall of the Army whither he is gone down, the Earle of <hi>Newport</hi> Maſter of the Ordi<g ref="char:EOLhyphen"/>nance, <hi>Belfoard</hi> the Lieutenant of the Tower, hath proved an arrand Traytor to the King, who commanded him upon his Allegeance to receive a <hi>Captaine</hi> and 100 men into the Tower, which he moſt tray<g ref="char:EOLhyphen"/>terouſly refuſed to doe, one clauſe is o<g ref="char:EOLhyphen"/>mitted, which ſhould have bin placed in the middle of the Letter, which was to this effect that there was a report in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> that the Parliament Houſe was on fire, wherupon there was more than 1000 people very ſuddenly gathered together,
+<pb n="5" facs="tcp:93144:4"/>whereby you may eaſily perceive the height and violence of the peoples affecti<g ref="char:EOLhyphen"/>ons, <hi>May,</hi> the 6th 1641.</p>
+            <p>
+               <hi>This Letter was thought to be ſent from a Priest, calling himſelfe Father Philips to Mr. Mountague.</hi> There was another Letter, and that was ſent from one <hi>Robert Philips,</hi> one of the <hi>Queenes</hi> Prieſts, and it is ſuppoſed to be to M. <hi>Mountague,</hi> to this effect, you may expect ſome company with you ere long, <hi>Crofts, Suckling, Piercy, Iermin,</hi> are gone, all things here are in great incertainties, Pro<g ref="char:EOLhyphen"/>teſtation is made and taken by both hou<g ref="char:EOLhyphen"/>ſes, much like, but much worſe, then the <hi>Scottiſh Covenant,</hi> I ſent you ſome money by M. <hi>Iermin,</hi> but now that he is gone, <hi>I</hi> make ſome doubt whether he might be mindfull of you to take it with him, I have ſpoke to the <hi>Queene</hi> about your occaſions, and will do what I can, though I am not able to undertake much.</p>
+            <closer>
+               <signed>Your loving friend, <hi>FR. PHILIPS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:93144:5"/>
+            <p>Hereupon, it was ordered that <hi>Philips</hi> ſhould bee ſent for by a Sergeant at Armes, and there ſhould be all poſſible meanes and endeavours uſed to diſco<g ref="char:EOLhyphen"/>ver the Author of the former Letter, who was dee<g ref="char:EOLhyphen"/>med almoſt by all men no better then a Traytor, One other particular of weight is forgotten in the former Letter, which is this, that there is mention made of ſome great ſummes of money in the hands of ſome of the receivers, who are named, which are to be im<g ref="char:EOLhyphen"/>ployed for maintaining of Romiſh Cloyſters beyond Seas, and particular mention is made of a Cloyſter at <hi>Arras.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
